@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Ｏ2",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2025-12-30T17:06:34.771952Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "C11 H17 N2 O2 S Na",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/01_C11_H17_N2_O2_S_Na_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Call The Shots (Tangled Up Tour Live From The O2)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/02_Call_The_Shots_(Tangled_Up_Tour_Live_From_The_O2)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Close To Love (Tangled Up Tour Live From The O2)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/03_Close_To_Love_(Tangled_Up_Tour_Live_From_The_O2)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "C11 H17 N2 O2 S Na (Sodium Pentathol)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/04_C11_H17_N2_O2_S_Na_(Sodium_Pentathol)_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cancer - Live at O2 Music-Flash, E-Werk, Berlin, Germany, 10/14/2006",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/05_Cancer_-_Live_at_O2_Music-Flash,_E-Werk,_Berlin,_Germany,_10_14_2006_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Famous Last Words - Live at O2 Music-Flash, E-Werk, Berlin, Germany, 10/14/2006",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/06_Famous_Last_Words_-_Live_at_O2_Music-Flash,_E-Werk,_Berlin,_Germany,_10_14_2006_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Famous Last Words (live at O2 Music‐Flash, E‐Werk, Berlin, Germany, 10\u000014\u00002006)",
+      "artist": "My Chemical Romance",
+      "has_synced": true,
+      "path": "select/07_Famous_Last_Words_(live_at_O2_Music‐Flash,_E‐Werk,_Berlin,_Germany,_10\u000014\u00002006)_My_Chemical_Romance.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "O2",
+      "artist": "Sleater-Kinney",
+      "has_synced": true,
+      "path": "select/08_O2_Sleater-Kinney.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lights - (Live From O2)",
+      "artist": "Scissor Sisters",
+      "has_synced": false,
+      "path": "select/09_Lights_-_(Live_From_O2)_Scissor_Sisters.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lights (Live From O2)",
+      "artist": "Scissor Sisters",
+      "has_synced": true,
+      "path": "select/10_Lights_(Live_From_O2)_Scissor_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "O2",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/11_O2_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All I Really Want - Live at London’s O2 Shepherd’s Bush Empire, 2020",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/12_All_I_Really_Want_-_Live_at_London’s_O2_Shepherd’s_Bush_Empire,_2020_Alanis_Morissette.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All I Really Want (Live at London’s O2 Shepherd’s Bush Empire, 2020)",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/13_All_I_Really_Want_(Live_at_London’s_O2_Shepherd’s_Bush_Empire,_2020)_Alanis_Morissette.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hand In My Pocket - Live at London’s O2 Shepherd’s Bush Empire, 2020",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/14_Hand_In_My_Pocket_-_Live_at_London’s_O2_Shepherd’s_Bush_Empire,_2020_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hand In My Pocket (Live at London’s O2 Shepherd’s Bush Empire, 2020)",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/15_Hand_In_My_Pocket_(Live_at_London’s_O2_Shepherd’s_Bush_Empire,_2020)_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hands Clean - Live at London’s O2 Shepherd’s Bush Empire, 2020",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/16_Hands_Clean_-_Live_at_London’s_O2_Shepherd’s_Bush_Empire,_2020_Alanis_Morissette.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Hands Clean (Live at London’s O2 Shepherd’s Bush Empire, 2020)",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/17_Hands_Clean_(Live_at_London’s_O2_Shepherd’s_Bush_Empire,_2020)_Alanis_Morissette.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "O2",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_O2_ORANGE_RANGE.txt"
+    }
+  ]
+}
